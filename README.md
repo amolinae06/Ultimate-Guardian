@@ -1,6 +1,6 @@
 # ULTIMATE-GUARDIAN
 ## Aim of the project:
-Make the Guardian gamemode more fun and available for all maps using creative manners to improve the overall expirience.
+Make the Guardian gamemode more fun and available for all maps using creative manners to improve the overall experience.
 
 ### Maps:
 - [ ] Agency
